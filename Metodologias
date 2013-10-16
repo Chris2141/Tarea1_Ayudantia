@@ -17,8 +17,45 @@ al aceptar el proyecto, lo cual influye de manera negativa en la calidad del pro
 con los tiempos estimados con el cliente o incluso, que el software entregado no cumpla las funciones que la empresa 
 solicito, es decir, un fracaso. \\
 
-En la actualidad se han encontrado varios factores que pueden llevar al fracaso de un proyecto de desarrollo de software, los cuales los dividimos en dos grandes grupos: metodologias tradicionales y metodologias agiles. Una metodologia tradicional se caracteriza por tener equipos de trabajo grandes, con roles muy definidos por los participantes, rigidez en sus fases de trabajo, escasa comunicacion con el cliente y poseer una excesiva documentacion durante la vida del proyecto. En cambio una metodologia agil se caracteriza por tener equipos de desarrollo auto-organizados, trabajo a corto plazo, comunicacion con el cliente, valoracion al cambio, mostrar avances del trabajo al cliente y proyectos poco documentados debido a la minimizacion de tareas que no contribuyen al software. \\\\
-METODOLOGIA RUP\\ %aprender a poner como subtitulo 
+En la actualidad se han encontrado varios factores que pueden llevar al fracaso de un proyecto de desarrollo de 
+software, los cuales los dividimos en dos grandes grupos: metodologias tradicionales y metodologias agiles. 
+Una metodologia tradicional se caracteriza por tener equipos de trabajo grandes, con roles muy definidos por los
+participantes, rigidez en sus fases de trabajo, escasa comunicacion con el cliente y poseer una excesiva 
+documentacion durante la vida del proyecto. En cambio una metodologia agil se caracteriza por tener equipos
+de desarrollo auto-organizados, trabajo a corto plazo, comunicacion con el cliente, valoracion al cambio, mostrar
+avances del trabajo al cliente y proyectos poco documentados debido a la minimizacion de tareas que no contribuyen
+al software. \\\\
+METODOLOGIA RUP\\ %aprender a poner como subtitulo JAJA
+
+
+Metodología ágil  (EXTREME PROGRAMMING, XP)
+Esta metodología basa su funcionamiento en resaltar las distintas relaciones humanas para poder sacar el máximo
+provecho de los individuos detrás de un proyecto, con el fin de obtener los mejores resultados a la hora de crear
+un software.  Algunas de las características de este tipo de metodología ágil es que está centrado en el aprendizaje
+constante de los desarrolladores, además que estén insertos en un ambiente laboral grato, para que se generen 
+instancias favorables que hagan estimular el trabajo en equipo de los distintos personajes de un proyecto en 
+particular. 
+XP esta creado para que el cliente y el grupo de trabajo estén en constante comunicación, donde el cliente provea
+de los cambios que requiere su software y  se la haga saber al grupo de trabajo apenas nace esta inquietud. El grupo
+de trabajo responde con soluciones concretas y simples donde particularmente se enfoca el trabajo en entregar al 
+usuario lo que desea, es por esto que la comunicación tiene que ser fluida entre las partes. La particularidad de
+esta metodología es que se puede aplicar a proyectos donde los cambios en el diseño o en los requerimientos están
+a la orden del día. 
+Las historias de usuarios son una parte fundamental dentro de esta metodología, ya que se le denomina historia a
+pequeños fichas de papel, donde el usuario escribe en forma breve y simple los requisitos funcionales o no 
+funcionales que debe tener el software. Estas historias pueden modificarse o eliminarse en cualquier minuto, están
+sujetas a cambios permanentes durante el proyecto. 
+Los distintos roles de XP, son los siguientes. Programador, Cliente,  Encargado de pruebas, Encargado de seguimiento,
+Entrenador, Consultor y gestor.
+
+Para finalizar mostraremos el proceso de la metodología.
+Proceso XP
+Consiste principalmente en los siguientes bloques. 
+1.	El cliente define el valor de negocio a implementar.
+2.	El programador estima el esfuerzo necesario para su implementación.
+3.	El cliente selecciona qué construir, de acuerdo con sus prioridades y las restricciones de tiempo.
+4.	El programador construye ese valor de negocio.
+5.	Vuelve al paso 1.
 
 
 

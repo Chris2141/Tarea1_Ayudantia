@@ -7,9 +7,21 @@
 \author{Juan Marcelo Cortez \\ Felipe Alvarez\\Christopher Salvatierra}
 \maketitle
 
-La ingeniería de software, es una disciplina que ha estudiado propuestas diferentes que permiten apoyar el proceso de desarrollo y construcción de software desde hace muchos a\~nos sin embargo muchos proyectos de desarrollo de software no llegan a cumplir su cometido, ya sea porque simplemente fracasan o el resultado final obtenido no es el solicitado por los clientes, usuarios finales o incluso los mismos desarrolladores, debido, por ejemplo, a que el software que debieron crear fue mas complejo de lo que imaginaron al aceptar el proyecto, lo cual influye de manera negativa en la calidad del programa entregado, en no poder cumplir con los tiempos estimados con el cliente o incluso, que el software entregado no cumpla las funciones que la empresa solicito, es decir, un fracaso. \\
+La ingenieria de software, es una disciplina que ha estudiado
+propuestas diferentes que permiten apoyar el proceso de desarrollo y 
+construccion de software desde hace muchos a\~nos sin embargo muchos proyectos de 
+desarrollo de software no llegan a cumplir su cometido, ya sea porque simplemente fracasan o el 
+resultado final obtenido no es el solicitado por los clientes, usuarios finales o incluso los mismos
+desarrolladores, debido, por ejemplo, a que el software que debieron crear fue mas complejo de lo que imaginaron 
+al aceptar el proyecto, lo cual influye de manera negativa en la calidad del programa entregado, en no poder cumplir 
+con los tiempos estimados con el cliente o incluso, que el software entregado no cumpla las funciones que la empresa 
+solicito, es decir, un fracaso. \\
 
-En la actualidad se han encontrado varios factores que pueden llevar al fracaso de un proyecto de desarrollo de software, los cuales los dividimos en dos grandes grupos: metodologías tradicionales y metodologías ágiles. Una metodología tradicional se caracteriza por tener equipos de trabajo grandes, con roles muy definidos por los participantes, rigidez en sus fases de trabajo, escasa comunicación con el cliente y poseer una excesiva documentación durante la vida del proyecto
+En la actualidad se han encontrado varios factores que pueden llevar al fracaso de un proyecto de desarrollo de software, los cuales los dividimos en dos grandes grupos: metodologias tradicionales y metodologias agiles. Una metodologia tradicional se caracteriza por tener equipos de trabajo grandes, con roles muy definidos por los participantes, rigidez en sus fases de trabajo, escasa comunicacion con el cliente y poseer una excesiva documentacion durante la vida del proyecto. En cambio una metodologia agil se caracteriza por tener equipos de desarrollo auto-organizados, trabajo a corto plazo, comunicacion con el cliente, valoracion al cambio, mostrar avances del trabajo al cliente y proyectos poco documentados debido a la minimizacion de tareas que no contribuyen al software. \\\\
+METODOLOGIA RUP\\ %aprender a poner como subtitulo 
+
+
+
 
 
 %Hoy es \Today

@@ -34,23 +34,23 @@ provecho de los individuos detrás de un proyecto, con el fin de obtener los mej
 un software.  Algunas de las características de este tipo de metodología ágil es que está centrado en el aprendizaje
 constante de los desarrolladores, además que estén insertos en un ambiente laboral grato, para que se generen 
 instancias favorables que hagan estimular el trabajo en equipo de los distintos personajes de un proyecto en 
-particular. 
+particular. \\
 XP esta creado para que el cliente y el grupo de trabajo estén en constante comunicación, donde el cliente provea
 de los cambios que requiere su software y  se la haga saber al grupo de trabajo apenas nace esta inquietud. El grupo
 de trabajo responde con soluciones concretas y simples donde particularmente se enfoca el trabajo en entregar al 
 usuario lo que desea, es por esto que la comunicación tiene que ser fluida entre las partes. La particularidad de
 esta metodología es que se puede aplicar a proyectos donde los cambios en el diseño o en los requerimientos están
-a la orden del día. 
+a la orden del día. \\
 Las historias de usuarios son una parte fundamental dentro de esta metodología, ya que se le denomina historia a
 pequeños fichas de papel, donde el usuario escribe en forma breve y simple los requisitos funcionales o no 
 funcionales que debe tener el software. Estas historias pueden modificarse o eliminarse en cualquier minuto, están
 sujetas a cambios permanentes durante el proyecto. 
 Los distintos roles de XP, son los siguientes. Programador, Cliente,  Encargado de pruebas, Encargado de seguimiento,
-Entrenador, Consultor y gestor.
-
-Para finalizar mostraremos el proceso de la metodología.
-Proceso XP
-Consiste principalmente en los siguientes bloques. 
+Entrenador, Consultor y gestor.\\
+\\
+Para finalizar mostraremos el proceso de la metodología.\\
+Proceso XP\\
+Consiste principalmente en los siguientes bloques. \\
 1.	El cliente define el valor de negocio a implementar.
 2.	El programador estima el esfuerzo necesario para su implementación.
 3.	El cliente selecciona qué construir, de acuerdo con sus prioridades y las restricciones de tiempo.

@@ -7,47 +7,125 @@
 \author{Juan Marcelo Cortez \\ Felipe Alvarez\\Christopher Salvatierra}
 \maketitle
 
-La ingenier\' ia de software, es una disciplina que ha estudiado propuestas diferentes que permiten apoyar el proceso de desarrollo y construcci\' on de software desde hace muchos a\~nos sin embargo muchos proyectos de desarrollo de software no llegan a cumplir su cometido, ya sea porque simplemente fracasan o el resultado final obtenido no es el solicitado por los clientes, usuarios finales o incluso los mismos desarrolladores, debido, por ejemplo, a que el software que debieron crear fue mas complejo de lo que imaginaron al aceptar el proyecto, lo cual influye de manera negativa en la calidad del programa entregado, en no poder cumplir con los tiempos estimados con el cliente o incluso, que el software entregado no cumpla las funciones que la empresa solicito, es decir, un fracaso. \\
+La ingenier\' ia de software, es una disciplina que ha estudiado propuestas diferentes
+ que permiten apoyar el proceso de desarrollo y construcci\' on de software 
+ desde hace muchos a\~nos sin embargo muchos proyectos de desarrollo de
+  software no llegan a cumplir su cometido,
+  ya sea porque simplemente fracasan o el resultado final obtenido no es el
+   solicitado por los clientes, usuarios finales o incluso los mismos 
+   desarrolladores, debido, por ejemplo, a que el
+   software que debieron crear fue mas complejo de lo que imaginaron al aceptar el proyecto,
+    lo cual influye de manera negativa en la calidad del programa entregado, en no poder 
+    cumplir con los tiempos estimados con el cliente o incluso, que el software 
+    entregado no cumpla las funciones que la empresa solicito, es decir, un fracaso. \\
 
-En la actualidad se han encontrado varios factores que pueden llevar al fracaso de un proyecto de desarrollo de software, los cuales los dividimos en dos grandes grupos: metodolog\' ias tradicionales y metodolog\' ias \' agiles. Una metodolog\' ia tradicional se caracteriza por tener equipos de trabajo grandes, con roles muy definidos por los participantes, rigidez en sus fases de trabajo, escasa comunicacion con el cliente y poseer una excesiva documentaci\' on durante la vida del proyecto. En cambio una metodolog\' ia \' agil se caracteriza por tener equipos de desarrollo auto-organizados, trabajo a corto plazo, comunicacion con el cliente, valoraci\' on al cambio, mostrar avances del trabajo al cliente y proyectos poco documentados debido a la minimizacion de tareas que no contribuyen al software. \\\\
+En la actualidad se han encontrado varios factores que pueden llevar al fracaso
+ de un proyecto de desarrollo de software, los cuales los dividimos en dos grandes
+  grupos: metodolog\' ias
+   tradicionales y metodolog\' ias \' agiles. Una metodolog\' ia tradicional 
+   se caracteriza por tener equipos de trabajo grandes, con roles muy definidos 
+   por los participantes, rigidez en sus fases de trabajo, escasa comunicacion 
+   con el cliente y poseer una excesiva documentaci\' on durante la vida del proyecto.
+    En cambio una metodolog\' ia \' agil se caracteriza por tener equipos de desarrollo 
+    auto-organizados, trabajo a corto plazo, comunicaci\' on con el cliente, valoraci\' on 
+    al cambio, mostrar avances del trabajo al cliente y proyectos
+     poco documentados debido a la minimizaci\' on de tareas que no contribuyen al software. \\\\
 Metodolog\' ia Tradicional (METODOLOGIA RUP)\\\\ %aprender a poner como subtitulo
-RUP (Rational Unified Process) es una metodolog\' ia de desarrollo de software tradicional que junto con UML constituye la metodolog\' ia est\' andar para el an\' alisis de sistemas orientados a objetos. RUP es guiado por los casos de uso generados en los modelos UML,  La metodolog\' ia RUP se caracteriza por su forma disciplinada de asignar las tareas y responsabilidades por cumplir, posee un desarrollo iterativo e incremental. El m\' etodo de desarrollo de RUP se divide en 4 fases:\\\
+RUP (Rational Unified Process) es una metodolog\' ia de desarrollo de software 
+tradicional que junto con UML constituye la metodolog\' ia est\' andar 
+para el an\' alisis de sistemas orientados a objetos. RUP es guiado
+ por los casos de uso generados en 
+los modelos UML,  La metodolog\' ia RUP se caracteriza por su forma 
+disciplinada de asignar las tareas y responsabilidades por cumplir 
+(quien hace que, cuando y como), posee un desarrollo iterativo e incremental, 
+modelado visual del software, verificaci\' on de calidad del software, control de 
+cambios, administraci\' on de requisitos entre otras caracter\' isticas de la metodolog\' ia. 
+El RUP esta basado en 6 principios base:\\\
 \begin{enumerate}
-
-\item Fase de inicio: su prop\' osito es definir y acordar el alcance del proyecto con los clientes, identificar riesgos del proyecto, generar un plan para las fases e iteraciones. \\\
-\item Fase de elaboraci\' on: Se dise\~na una soluci\' on preliminar, seleccionan y desarrollan los casos de uso y se realiza el primer an\' alisis del problema a resolver. \\\
-\item Fase de desarrollo: como dice su nombre se empieza a desarrollar la elaboraci\' on del software para la cumplir con los requisitos que exige el cliente, administrar cambios de acuerdo a evaluaciones de usuarios y realizar mejoras al proyecto. \\\
-\item Fase de Transici\' on: su prop\' osito es asegurar la funcionalidad adecuada del software para ser entregado al usuario final, ajustar defectos mediante pruebas y proveer soporte t\' ecnico.\\\\
+\item adaptar el proceso: adaptar seg\' un necesidades del cliente.
+\item equilibrar prioridades: los requisitos de los participantes
+ pueden ser diferentes o pueden disputar recursos que se encuentran limitados. 
+\item Demostrar valor iterativamente: los proyectos se entregan 
+en etapas iteradas. 
+\item Colaboraci\' on entre equipos: El desarrollo del software
+ lo realizan m\' ultiples equipos. 
+\item elevar nivel de abstracci\' on: Uso de conceptos reutilizables
+ como patr\' on del software, frameworks, entre otros. 
+\item Enfocarse en la calidad: el control de calidad debe 
+realizarse en todos los aspectos de producci\' on\\\\
 
 \end{enumerate}
 
+ El m\' etodo de desarrollo de RUP se divide en 4 fases:\\\
+\begin{enumerate}
+
+\item Fase de inicio: su prop\' osito es definir y 
+acordar el alcance del proyecto con los clientes, identificar 
+riesgos del proyecto, generar un plan para las fases e iteraciones. \\\
+\item Fase de elaboraci\' on: Se dise\~na una soluci\' on preliminar, 
+seleccionan y desarrollan los casos de uso y se realiza
+ el primer an\' alisis del problema a resolver. \\\
+\item Fase de desarrollo: como dice su nombre se 
+empieza a desarrollar la elaboraci\' on del software
+ para la cumplir con los requisitos que exige el cliente,
+  administrar cambios de acuerdo a evaluaciones de usuarios
+   y realizar mejoras al proyecto. \\\
+\item Fase de Transici\' on: su prop\' osito es asegurar
+ la funcionalidad adecuada del software para ser entregado
+  al usuario final, ajustar defectos mediante pruebas
+   y proveer soporte t\' ecnico.\\\\
+
+\end{enumerate}
+
+Entre las ventajas de usar RUP se encuentra la reducci\' on 
+de riesgos del proyecto, el que integra desarrollo con
+ mantenimiento e incorpora fielmente el objetivo de calidad.\\\\\\
 Metodolog\' ia \' agil  (EXTREME PROGRAMMING, XP)\\\\
-Esta metodolog\' ia basa su funcionamiento en resaltar las distintas relaciones humanas para poder sacar el m\' aximo
-provecho de los individuos detr\' as de un proyecto, con el fin de obtener los mejores resultados a la hora de crear
-un software.  Algunas de las caracter\' isticas de este tipo de metodolog\' ia \' agil es que est\' a centrado en el aprendizaje
-constante de los desarrolladores, adem\' as que est\' en insertos en un ambiente laboral grato, para que se generen 
-instancias favorables que hagan estimular el trabajo en equipo de los distintos personajes de un proyecto en 
+Esta metodolog\' ia basa su funcionamiento en resaltar 
+las distintas relaciones humanas para poder sacar el m\' aximo
+provecho de los individuos detr\' as
+ de un proyecto, con el fin de obtener los mejores resultados a la hora de crear
+un software.  Algunas de las
+ caracter\' isticas de este tipo de metodolog\' ia \' agil es que est\' a
+  centrado en el aprendizaje
+constante de los desarrolladores,
+ adem\' as que est\' en insertos en un ambiente laboral grato, para que se generen 
+instancias favorables que hagan 
+estimular el trabajo en equipo de los distintos personajes de un proyecto en 
 particular. \\
-XP esta creado para que el cliente y el grupo de trabajo est\' en en constante comunicaci\' on, donde el cliente informe
- los cambios que requiere su software y  se la haga saber al grupo de trabajo apenas nace esta inquietud. El grupo
-de trabajo responde con soluciones concretas y simples donde particularmente se enfoca el trabajo en entregar al 
-usuario lo que desea, es por esto que la comunicaci\' on tiene que ser fluida entre las partes. La particularidad de
-esta metodolog\' ia es que se puede aplicar a proyectos donde los cambios en el dise\~ no o en los requerimientos est\' an
+XP esta creado para que el cliente y 
+el grupo de trabajo est\' en en constante comunicaci\' on, donde el cliente informe
+ los cambios que requiere su software 
+ y  se la haga saber al grupo de trabajo apenas nace esta inquietud. El grupo
+de trabajo responde con soluciones
+ concretas y simples donde particularmente se enfoca el trabajo en entregar al 
+usuario lo que desea, es por esto 
+que la comunicaci\' on tiene que ser fluida entre las partes. La particularidad de
+esta metodolog\' ia es que se puede 
+aplicar a proyectos donde los cambios en el dise\~ no o en los requerimientos est\' an
 a la orden del d\' ia. \\
-Las historias de usuarios son una parte fundamental dentro de esta metodolog\'ia, ya que se le denomina historia a
-peque\~ nos fichas de papel, donde el usuario escribe en forma breve y simple los requisitos funcionales o no 
-funcionales que debe tener el software. Estas historias pueden modificarse o eliminarse en cualquier minuto, est\' an
+Las historias de usuarios son
+ una parte fundamental dentro de esta metodolog\'ia, ya que se le denomina historia a
+peque\~ nos fichas de papel,
+ donde el usuario escribe en forma breve y simple los requisitos funcionales o no 
+funcionales que debe tener el
+ software. Estas historias
+  pueden modificarse o eliminarse en cualquier minuto, est\' an
 sujetas a cambios permanentes durante el proyecto. 
-Los distintos roles de XP, son los siguientes. Programador, Cliente,  Encargado de pruebas, Encargado de seguimiento,
+Los distintos roles de XP, son 
+los siguientes. Programador, Cliente,  Encargado de pruebas, Encargado de seguimiento,
 Entrenador, Consultor y gestor.\\
 \\
-Para finalizar mostraremos el proceso de la metodolog\' ia.\\
+Para finalizar mostraremos el
+ proceso de la metodolog\' ia.\\
 Proceso XP\\
 Consiste principalmente en los siguientes bloques: \\
 \begin{enumerate}
 \item El cliente define el valor de negocio a implementar.
-\item    El programador estima el esfuerzo necesario para su implementaci\' on.
-\item   El cliente selecciona qu\' e construir, de acuerdo con sus prioridades y las restricciones de tiempo.
+\item    El programador estima el
+ esfuerzo necesario para su implementaci\' on.
+\item   El cliente selecciona qu\' e 
+construir, de acuerdo con sus prioridades y las restricciones de tiempo.
 \item  El programador construye ese valor de negocio.
      Vuelve al paso 1.\\\\
 \end{enumerate}
@@ -57,7 +135,7 @@ Consiste principalmente en los siguientes bloques: \\
 \begin{tabular}{||l | c | r||}
 \hline
 \hline
-Caracteristicas & Metodolog\' ia RUP & Metodolog\' ia XP \\
+Caracter\' isticas & Metodolog\' ia RUP & Metodolog\' ia XP \\
 \hline
 \hline
 
@@ -65,11 +143,11 @@ Obtenci\' on de requisitos& Casos de uso & conversaci\'on con clientes\\
 \hline
 Carga de Trabajo & Mucho trabajo & Poco Trabajo\\
 \hline
-Duraci\'on de Proyectos & Larga duracion & Duracion Corta\\
+Duraci\'on de Proyectos & Larga duraci\' on & Duraci\' on Corta\\
 \hline
 Detecci\'on de Errores & temprana & A largo plazo\\
 \hline
-Soporte Tecnico & poco continuo & muy continuo\\
+Soporte T\' ecnico & poco continuo & muy continuo\\
 \hline
 Accesibilidad del cliente al codigo & poca & mucha \\
 \hline
